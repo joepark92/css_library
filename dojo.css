@@ -75,3 +75,47 @@ a {
     border-color: black;
     box-shadow: 2.5px 2.5px black;
 }
+
+/* profile card */
+.header {
+    background-color: cadetblue;
+    height: 100px;
+    width: 506px;
+}
+
+.usermain {
+    height: 250px;
+    width: 500px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    border-style: solid;
+    border-top: none;
+    border-color: rgb(192, 183, 183);
+}
+
+.username {
+    padding-top: 50px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    font-size: 2.0rem;
+    font-weight: bold;
+}
+
+.info {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 20px;
+}
+
+.userimage {
+    width: 100px;
+    position: relative;
+    left: 20px;
+    top: 50px;
+
+}
+
+img.mini {
+    width: 15px;
+    padding-left: 20px;
+    vertical-align: middle;
+}
